@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Ruben Vermeersch.
+
+I'm a product/startup builder from Belgium.
+
+Passions / specialities: Motorsports, DevOps, Kubernetes, Go.
+
+I offer a variety of services to bring DevOps knowledge into your organization: training, architectural advice and hands-on implementation work. My main focus is always on transferring this knowledge to your team. [Learn more](https://rocketeer.be/consulting/)
+
+More about me on my website: https://rocketeer.be/
 
 <!--
 **rubenv/rubenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
